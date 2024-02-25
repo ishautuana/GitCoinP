@@ -4,4 +4,4 @@ git add README.md
 git commit -m "first commit"
 git branch -M main
 git remote add origin https://github.com/ishautuana/GitCoinP.git
-git push -u origin main1
+git push -u origin main
